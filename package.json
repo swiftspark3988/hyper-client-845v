@@ -1,0 +1,12 @@
+{
+  "name": "bot-runner",
+  "version": "1.0.0",
+  "description": "Background task runner",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^22.0.0"
+  }
+}
